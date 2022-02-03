@@ -24,8 +24,8 @@ yarn-error.log*
 
 
 # API
-api/.index.js
-Map/.Map.jsx
+api/index.js
+Map/Map.jsx
 
 index.js
 Map.jsx
